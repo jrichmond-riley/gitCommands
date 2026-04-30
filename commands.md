@@ -4,13 +4,13 @@
 + status
 + push
   + -u
-pull
-add
-commit
--m
--a
--am
-branch
--a
--d
-merge
++ pull
++ add
++ commit
+  + -m
+  + -a
+  + -am
++ branch
+  + -a
+  + -d
++ merge
